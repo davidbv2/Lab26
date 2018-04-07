@@ -3,8 +3,6 @@
 <head>
     <title>David's Dark Roast - Registration</title>
 
-    //create validation function here and in form tag below, do return: call validation funtion (inside a script)
-
 </head>
 <body>
 ${inst}
